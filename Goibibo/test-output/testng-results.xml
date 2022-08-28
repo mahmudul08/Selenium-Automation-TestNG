@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T16:05:22 BDT" name="Default suite" finished-at="2022-08-25T16:07:11 BDT" duration-ms="109542">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T16:05:22 BDT" name="Default test" finished-at="2022-08-25T16:07:11 BDT" duration-ms="109542">
+      <class name="goibibo.com.goibibo">
+        <test-method signature="TitleVarify()[pri:1, instance:goibibo.com.goibibo@309e345f]" started-at="2022-08-25T16:05:22 BDT" name="TitleVarify" description="Check valid Title" finished-at="2022-08-25T16:06:20 BDT" duration-ms="57811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleVarify -->
+        <test-method signature="RedioButton1()[pri:2, instance:goibibo.com.goibibo@309e345f]" started-at="2022-08-25T16:06:20 BDT" name="RedioButton1" description="Trip Redio Button check" finished-at="2022-08-25T16:06:23 BDT" duration-ms="3900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RedioButton1 -->
+        <test-method signature="SearchTrip()[pri:3, instance:goibibo.com.goibibo@309e345f]" started-at="2022-08-25T16:06:23 BDT" name="SearchTrip" description="Search a Trip" finished-at="2022-08-25T16:07:03 BDT" duration-ms="39055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTrip -->
+        <test-method signature="Redion2()[pri:4, instance:goibibo.com.goibibo@309e345f]" started-at="2022-08-25T16:07:03 BDT" name="Redion2" description="Select a fare type check" finished-at="2022-08-25T16:07:11 BDT" duration-ms="8740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Redion2 -->
+      </class> <!-- goibibo.com.goibibo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
